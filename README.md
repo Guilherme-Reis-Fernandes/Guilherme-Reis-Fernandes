@@ -1,6 +1,5 @@
-👋 Olá, eu Guilherme Reis Fernandes.
-👀 Sou muito interessado programação.
-🌱 Altuamente cursando no segundo período de Engenharia de Software pela Univesidade Fametro.
-Gostando muito da área.
+👋 Olá, eu sou Guilherme Reis Fernandes.
+👀 Sou muito interessado em programação.
+🌱 Altuamente cursando Engenharia de Software pela Univesidade Fametro.
 📫 Você pode chegar até mim através do meu e-mail
 guilhermereisfernandes@gmail.com
